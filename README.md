@@ -24,6 +24,12 @@ To get id from hash:
 node id-from-hash.js {portal} {hash}
 ```
 
+To bulk hash, drop an .xlsx file to project root and rename to `input.xlsx`. The first column should be amplitude id. The second column should be the hashed user id. It will only read the first sheet from the workbook.
+
+```bash
+node bulk-from-xlsx.js
+```
+
 ## config.json
 Optionally, you can preset the portal in the config. This way, you won't have to pass the portal name to the command each time.
 

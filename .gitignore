@@ -1,1 +1,4 @@
 node_modules
+input.xlsx
+out.csv
+.DS_Store
