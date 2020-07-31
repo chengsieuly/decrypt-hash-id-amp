@@ -6,7 +6,7 @@
 
 ## Installation
 ```bash
-git clone https://bitbucket.csod.com/scm/~cly/decrypt-amp-user-id.git
+git clone https://github.com/chengsieuly/decrypt-hash-id-amp
 cd decrypt-amp-user-id
 npm install
 ```
