@@ -7,7 +7,7 @@
 ## Installation
 ```bash
 git clone https://github.com/chengsieuly/decrypt-hash-id-amp
-cd decrypt-amp-user-id
+cd decrypt-hash-id-amp
 npm install
 ```
 
